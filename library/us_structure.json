@@ -1,0 +1,515 @@
+{
+ "BMO": {
+  "parent": "BANK OF MONTREAL",
+  "parent_rssd": "1231333",
+  "ihcs": [
+   {
+    "rssd": "1245415",
+    "name": "BMO FINANCIAL CORP."
+   }
+  ],
+  "us_entities_total": 70,
+  "under_ihc": 70,
+  "outside_ihc": [],
+  "branches": [
+   {
+    "name": "CHICAGO BRANCH",
+    "type": "U.S. branch (state licence)",
+    "where": "Chicago, IL"
+   },
+   {
+    "name": "HOUSTON AGENCY",
+    "type": "U.S. agency (state licence)",
+    "where": "Houston, TX"
+   },
+   {
+    "name": "NEW YORK BRANCH",
+    "type": "U.S. branch (state licence)",
+    "where": "New York, NY"
+   }
+  ],
+  "by_type_under_ihc": {
+   "Other U.S. company": 63,
+   "Securities broker-dealer": 2,
+   "National bank": 2,
+   "Intermediate holding company": 1,
+   "Non-deposit trust company": 1,
+   "Finance company": 1
+  },
+  "parent_type": "Foreign financial holding company",
+  "parent_code": "FHF",
+  "territory_holdings": [],
+  "foreign_total": 0,
+  "foreign_all": [],
+  "foreign_by_activity": {},
+  "foreign_by_country": {},
+  "foreign_with_us_business": [],
+  "foreign_nonbank": []
+ },
+ "CIBC": {
+  "parent": "CANADIAN IMPERIAL BANK OF COMMERCE",
+  "parent_rssd": "1231342",
+  "ihcs": [
+   {
+    "rssd": "5014141",
+    "name": "CIBC BANCORP USA INC."
+   }
+  ],
+  "us_entities_total": 34,
+  "under_ihc": 33,
+  "outside_ihc": [
+   {
+    "name": "BAY SQUARE FUNDING LLC",
+    "rssd": "5883196",
+    "type": "Other U.S. company",
+    "code": "DEO",
+    "where": "Melville, NY",
+    "under_ihc": false,
+    "is_ihc": false,
+    "depth": 1
+   }
+  ],
+  "branches": [
+   {
+    "name": "ATLANTA REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Atlanta, GA"
+   },
+   {
+    "name": "AUSTIN TEXAS REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Austin, TX"
+   },
+   {
+    "name": "BELLEVUE REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Bellevue, WA"
+   },
+   {
+    "name": "BOSTON REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Boston, MA"
+   },
+   {
+    "name": "CHICAGO REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Chicago, IL"
+   },
+   {
+    "name": "DURHAM REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Durham, NC"
+   },
+   {
+    "name": "HOUSTON REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Houston, TX"
+   },
+   {
+    "name": "MENLO PARK REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Menlo Park, CA"
+   },
+   {
+    "name": "NEW YORK BRANCH",
+    "type": "U.S. branch (state licence)",
+    "where": "New York, NY"
+   },
+   {
+    "name": "RESTON REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Reston, VA"
+   },
+   {
+    "name": "SAN FRANCISCO REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "San Francisco, CA"
+   }
+  ],
+  "by_type_under_ihc": {
+   "Other U.S. company": 26,
+   "Finance company": 2,
+   "Intermediate holding company": 1,
+   "Non-deposit trust company": 1,
+   "Trust company (Fed member)": 1,
+   "State member bank": 1,
+   "Securities broker-dealer": 1
+  },
+  "parent_type": "Foreign financial holding company",
+  "parent_code": "FHF",
+  "territory_holdings": [],
+  "foreign_total": 1,
+  "foreign_all": [
+   {
+    "name": "ATLAS POINT GLOBAL MULTI-STRATEGY OFFSHORE FUND, LTD",
+    "country": "Cayman Islands",
+    "activity": "Funds & trusts",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   }
+  ],
+  "foreign_by_activity": {
+   "Funds & trusts": 1
+  },
+  "foreign_by_country": {
+   "Cayman Islands": 1
+  },
+  "foreign_with_us_business": [],
+  "foreign_nonbank": []
+ },
+ "RBC": {
+  "parent": "ROYAL BANK OF CANADA",
+  "parent_rssd": "1232497",
+  "ihcs": [
+   {
+    "rssd": "5280254",
+    "name": "RBC US GROUP HOLDINGS LLC"
+   }
+  ],
+  "us_entities_total": 1648,
+  "under_ihc": 1647,
+  "outside_ihc": [
+   {
+    "name": "CFG MARKET ACTIVITIES LP",
+    "rssd": "5863321",
+    "type": "Other U.S. company",
+    "code": "DEO",
+    "where": "New York, NY",
+    "under_ihc": false,
+    "is_ihc": false,
+    "depth": 1
+   }
+  ],
+  "branches": [
+   {
+    "name": "DALLAS AGENCY",
+    "type": "U.S. agency (state licence)",
+    "where": "Dallas, TX"
+   },
+   {
+    "name": "DELAWARE REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Wilmington, DE"
+   },
+   {
+    "name": "HOUSTON REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Houston, TX"
+   },
+   {
+    "name": "HUDSON BRANCH",
+    "type": "U.S. branch (federal licence)",
+    "where": "Jersey City, NJ"
+   },
+   {
+    "name": "NEW YORK BRANCH",
+    "type": "U.S. branch (federal licence)",
+    "where": "New York, NY"
+   },
+   {
+    "name": "SAN FRANCISCO REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "San Francisco, CA"
+   },
+   {
+    "name": "THREE WORLD FINANCIAL CENTER BRANCH",
+    "type": "U.S. branch (federal licence)",
+    "where": "New York, NY"
+   },
+   {
+    "name": "WASHINGTON D.C. REPRESENTATIVE OFFICE",
+    "type": "Representative office",
+    "where": "Washington, DC"
+   }
+  ],
+  "by_type_under_ihc": {
+   "Other U.S. company": 1639,
+   "Securities broker-dealer": 3,
+   "National bank": 2,
+   "Financial holding company": 1,
+   "Finance company": 1,
+   "Non-deposit trust company": 1
+  },
+  "parent_type": "Foreign financial holding company",
+  "parent_code": "FHF",
+  "territory_holdings": [
+   {
+    "name": "BEATRIZ VILLAGE LIMITED PARTNERSHIP",
+    "country": "Puerto Rico",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "BRISAS DEL MAR VILLAGE, LLC",
+    "country": "Puerto Rico",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "GALERIA URBANA, LLC",
+    "country": "Puerto Rico",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "SANTAMERICA LLC",
+    "country": "Puerto Rico",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "SUMMER BREEZE I DE, LLC",
+    "country": "Guam",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "SUMMER VISTA I DE, LLC",
+    "country": "Guam",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "SUMMER VISTA II DE, LLC",
+    "country": "Guam",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   },
+   {
+    "name": "VISTAS DEL BOULEVARD, LLC",
+    "country": "Puerto Rico",
+    "activity": "Non-financial (commercial)",
+    "type": "Other U.S. company",
+    "us_business": false,
+    "us_territory": true
+   }
+  ],
+  "foreign_total": 7,
+  "foreign_all": [
+   {
+    "name": "2001 RBCP CANADIAN GP LIMITED",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "Foreign company",
+    "us_business": true,
+    "us_territory": false
+   },
+   {
+    "name": "FA EQUIPMENT FINANCE, INC.",
+    "country": "Canada",
+    "activity": "Lending / finance",
+    "type": "Finance company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "RBC CAPITAL PARTNERS LIMITED",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "RBC CMA LTD.",
+    "country": "British Virgin Islands",
+    "activity": "Securities & investment",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "RBC FINANCE (IRELAND) DESIGNATED ACTIVITY COMPANY",
+    "country": "Ireland",
+    "activity": "Funds & trusts",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "RBC FINANCE (LUXEMBOURG) 2018 S.A R.L.",
+    "country": "Luxembourg",
+    "activity": "Funds & trusts",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "ROYAL BANK HOLDING INC.",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   }
+  ],
+  "foreign_by_activity": {
+   "Holding company": 3,
+   "Funds & trusts": 2,
+   "Lending / finance": 1,
+   "Securities & investment": 1
+  },
+  "foreign_by_country": {
+   "Canada": 4,
+   "Ireland": 1,
+   "Luxembourg": 1,
+   "British Virgin Islands": 1
+  },
+  "foreign_with_us_business": [
+   {
+    "name": "2001 RBCP CANADIAN GP LIMITED",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "Foreign company",
+    "us_business": true,
+    "us_territory": false
+   }
+  ],
+  "foreign_nonbank": []
+ },
+ "TD": {
+  "parent": "TORONTO-DOMINION BANK, THE",
+  "parent_rssd": "1238565",
+  "ihcs": [
+   {
+    "rssd": "3606542",
+    "name": "TD GROUP US HOLDINGS LLC"
+   }
+  ],
+  "us_entities_total": 99,
+  "under_ihc": 98,
+  "outside_ihc": [
+   {
+    "name": "PARADELLE FUNDING LLC",
+    "rssd": "6005865",
+    "type": "Other U.S. company",
+    "code": "DEO",
+    "where": "Melville, NY",
+    "under_ihc": false,
+    "is_ihc": false,
+    "depth": 1
+   }
+  ],
+  "branches": [
+   {
+    "name": "NEW YORK BRANCH",
+    "type": "U.S. branch (federal licence)",
+    "where": "New York, NY"
+   }
+  ],
+  "by_type_under_ihc": {
+   "Other U.S. company": 88,
+   "Securities broker-dealer": 3,
+   "Finance company": 3,
+   "National bank": 2,
+   "Intermediate holding company": 1,
+   "Financial holding company": 1
+  },
+  "parent_type": "Foreign financial holding company",
+  "parent_code": "FHF",
+  "territory_holdings": [],
+  "foreign_total": 7,
+  "foreign_all": [
+   {
+    "name": "ROUTEONE CANADA CORP",
+    "country": "Canada",
+    "activity": "Non-financial (commercial)",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD CAPITAL GROUP LIMITED",
+    "country": "Canada",
+    "activity": "Securities & investment",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD ENERGY TRADING INC.",
+    "country": "Canada",
+    "activity": "Non-financial (commercial)",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD INVESTMENTS CANADA ULC",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD SECURITIES INC.",
+    "country": "Canada",
+    "activity": "Securities & investment",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD STAR CANADA HOLDING ULC",
+    "country": "Canada",
+    "activity": "Holding company",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TORONTO DOMINION INVESTMENTS DUBLIN UNLIMITED COMPANY",
+    "country": "Ireland",
+    "activity": "Funds & trusts",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   }
+  ],
+  "foreign_by_activity": {
+   "Holding company": 2,
+   "Non-financial (commercial)": 2,
+   "Securities & investment": 2,
+   "Funds & trusts": 1
+  },
+  "foreign_by_country": {
+   "Canada": 6,
+   "Ireland": 1
+  },
+  "foreign_with_us_business": [],
+  "foreign_nonbank": [
+   {
+    "name": "ROUTEONE CANADA CORP",
+    "country": "Canada",
+    "activity": "Non-financial (commercial)",
+    "type": "International non-bank",
+    "us_business": false,
+    "us_territory": false
+   },
+   {
+    "name": "TD ENERGY TRADING INC.",
+    "country": "Canada",
+    "activity": "Non-financial (commercial)",
+    "type": "Foreign company",
+    "us_business": false,
+    "us_territory": false
+   }
+  ]
+ }
+}

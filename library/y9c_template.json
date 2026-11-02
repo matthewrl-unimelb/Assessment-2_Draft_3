@@ -1,0 +1,492 @@
+{
+ "schedules": {
+  "HC": "Schedule HC - Consolidated Balance Sheet",
+  "HC-M": "Schedule HC-M - Memoranda",
+  "HC-R Part I": "Schedule HC-R Part I - Regulatory Capital Components and Ratios"
+ },
+ "lines": [
+  {
+   "schedule": "HC",
+   "item": "1.a",
+   "caption": "Noninterest-bearing balances and currency and coin",
+   "parent": "Cash and balances due from depository institutions",
+   "mdrm": "BHCK0081"
+  },
+  {
+   "schedule": "HC",
+   "item": "1.b.(1)",
+   "caption": "In U.S. offices",
+   "parent": "Cash and balances due from depository institutions \u2014 Interest-bearing balances",
+   "mdrm": "BHCK0395"
+  },
+  {
+   "schedule": "HC",
+   "item": "1.b.(2)",
+   "caption": "In foreign offices, Edge and Agreement subsidiaries, and IBFs",
+   "parent": "Cash and balances due from depository institutions \u2014 Interest-bearing balances",
+   "mdrm": "BHCK0397"
+  },
+  {
+   "schedule": "HC",
+   "item": "2.a",
+   "caption": "Held-to-maturity securities (from Schedule HC-B, column A)",
+   "parent": "Securities",
+   "mdrm": "BHCKJJ34"
+  },
+  {
+   "schedule": "HC",
+   "item": "2.b",
+   "caption": "Available-for-sale debt securities (from Schedule HC-B, column D)",
+   "parent": "Securities",
+   "mdrm": "BHCK1773"
+  },
+  {
+   "schedule": "HC",
+   "item": "2.c",
+   "caption": "Equity securities with readily determinable fair values not held for trading",
+   "parent": "Securities",
+   "mdrm": "BHCKJA22"
+  },
+  {
+   "schedule": "HC",
+   "item": "3.a",
+   "caption": "Federal funds sold in domestic offices",
+   "parent": "Federal funds sold and securities purchased under agreements to resell",
+   "mdrm": "BHDMB987"
+  },
+  {
+   "schedule": "HC",
+   "item": "3.b",
+   "caption": "Securities purchased under agreements to resell",
+   "parent": "Federal funds sold and securities purchased under agreements to resell",
+   "mdrm": "BHCKB989"
+  },
+  {
+   "schedule": "HC",
+   "item": "4.a",
+   "caption": "Loans and leases held for sale",
+   "parent": "Loans and lease financing receivables",
+   "mdrm": "BHCK5369"
+  },
+  {
+   "schedule": "HC",
+   "item": "4.b",
+   "caption": "Loans and leases, held for investment",
+   "parent": "Loans and lease financing receivables",
+   "mdrm": "BHCKB528"
+  },
+  {
+   "schedule": "HC",
+   "item": "4.c",
+   "caption": "LESS: Allowance for credit losses on loans and leases",
+   "parent": "Loans and lease financing receivables",
+   "mdrm": "BHCK3123"
+  },
+  {
+   "schedule": "HC",
+   "item": "4.d",
+   "caption": "Loans and leases, held for investment, net of allowance (item 4.b minus 4.c)",
+   "parent": "Loans and lease financing receivables",
+   "mdrm": "BHCKB529"
+  },
+  {
+   "schedule": "HC",
+   "item": "5",
+   "caption": "Trading assets (from Schedule HC-D)",
+   "parent": "",
+   "mdrm": "BHCK3545"
+  },
+  {
+   "schedule": "HC",
+   "item": "6",
+   "caption": "Premises and fixed assets (including right-of-use assets)",
+   "parent": "",
+   "mdrm": "BHCK2145"
+  },
+  {
+   "schedule": "HC",
+   "item": "7",
+   "caption": "Other real estate owned (from Schedule HC-M)",
+   "parent": "",
+   "mdrm": "BHCK2150"
+  },
+  {
+   "schedule": "HC",
+   "item": "8",
+   "caption": "Investments in unconsolidated subsidiaries and associated companies",
+   "parent": "",
+   "mdrm": "BHCK2130"
+  },
+  {
+   "schedule": "HC",
+   "item": "9",
+   "caption": "Direct and indirect investments in real estate ventures",
+   "parent": "",
+   "mdrm": "BHCK3656"
+  },
+  {
+   "schedule": "HC",
+   "item": "11",
+   "caption": "Other assets (from Schedule HC-F)",
+   "parent": "",
+   "mdrm": "BHCK2160"
+  },
+  {
+   "schedule": "HC",
+   "item": "12",
+   "caption": "Total assets (sum of items 1 through 11)",
+   "parent": "",
+   "mdrm": "BHCK2170"
+  },
+  {
+   "schedule": "HC",
+   "item": "13.a.(1)",
+   "caption": "Noninterest-bearing",
+   "parent": "Deposits \u2014 In domestic offices (from Schedule HC-E)",
+   "mdrm": "BHDM6631"
+  },
+  {
+   "schedule": "HC",
+   "item": "13.a.(2)",
+   "caption": "Interest-bearing",
+   "parent": "Deposits \u2014 In domestic offices (from Schedule HC-E)",
+   "mdrm": "BHDM6636"
+  },
+  {
+   "schedule": "HC",
+   "item": "13.b.(1)",
+   "caption": "Noninterest-bearing",
+   "parent": "Deposits \u2014 In foreign offices, Edge and Agreement subsidiaries, and IBFs",
+   "mdrm": "BHFN6631"
+  },
+  {
+   "schedule": "HC",
+   "item": "13.b.(2)",
+   "caption": "Interest-bearing",
+   "parent": "Deposits \u2014 In foreign offices, Edge and Agreement subsidiaries, and IBFs",
+   "mdrm": "BHFN6636"
+  },
+  {
+   "schedule": "HC",
+   "item": "14.a",
+   "caption": "Federal funds purchased in domestic offices",
+   "parent": "Federal funds purchased and securities sold under agreements to repurchase",
+   "mdrm": "BHDMB993"
+  },
+  {
+   "schedule": "HC",
+   "item": "14.b",
+   "caption": "Securities sold under agreements to repurchase",
+   "parent": "Federal funds purchased and securities sold under agreements to repurchase",
+   "mdrm": "BHCKB995"
+  },
+  {
+   "schedule": "HC",
+   "item": "15",
+   "caption": "Trading liabilities (from Schedule HC-D)",
+   "parent": "",
+   "mdrm": "BHCK3548"
+  },
+  {
+   "schedule": "HC",
+   "item": "16",
+   "caption": "Other borrowed money (includes mortgage indebtedness and obligations under capitalized leases) (from Schedule HC-M)",
+   "parent": "",
+   "mdrm": "BHCK3190"
+  },
+  {
+   "schedule": "HC",
+   "item": "19.a",
+   "caption": "Subordinated notes and debentures",
+   "parent": "",
+   "mdrm": "BHCK4062"
+  },
+  {
+   "schedule": "HC",
+   "item": "19.b",
+   "caption": "Subordinated notes payable to unconsolidated trusts issuing trust preferred securities, and trust preferred securities issued by consolidated special purpose entities",
+   "parent": "",
+   "mdrm": "BHCKC699"
+  },
+  {
+   "schedule": "HC",
+   "item": "20",
+   "caption": "Other liabilities (from Schedule HC-G)",
+   "parent": "",
+   "mdrm": "BHCK2750"
+  },
+  {
+   "schedule": "HC",
+   "item": "21",
+   "caption": "Total liabilities (sum of items 13 through 20)",
+   "parent": "",
+   "mdrm": "BHCK2948"
+  },
+  {
+   "schedule": "HC",
+   "item": "23",
+   "caption": "Perpetual preferred stock and related surplus",
+   "parent": "",
+   "mdrm": "BHCK3283"
+  },
+  {
+   "schedule": "HC",
+   "item": "24",
+   "caption": "Common stock (par value)",
+   "parent": "",
+   "mdrm": "BHCK3230"
+  },
+  {
+   "schedule": "HC",
+   "item": "25",
+   "caption": "Surplus (exclude all surplus related to preferred stock)",
+   "parent": "",
+   "mdrm": "BHCK3240"
+  },
+  {
+   "schedule": "HC",
+   "item": "26.a",
+   "caption": "Retained earnings",
+   "parent": "",
+   "mdrm": "BHCK3247"
+  },
+  {
+   "schedule": "HC",
+   "item": "26.b",
+   "caption": "Accumulated other comprehensive income",
+   "parent": "",
+   "mdrm": "BHCKB530"
+  },
+  {
+   "schedule": "HC",
+   "item": "26.c",
+   "caption": "Other equity capital components",
+   "parent": "",
+   "mdrm": "BHCKA130"
+  },
+  {
+   "schedule": "HC",
+   "item": "27.a",
+   "caption": "Total holding company equity capital (sum of items 23 through 26.c)",
+   "parent": "",
+   "mdrm": "BHCK3210"
+  },
+  {
+   "schedule": "HC",
+   "item": "27.b",
+   "caption": "Noncontrolling (minority) interests in consolidated subsidiaries",
+   "parent": "",
+   "mdrm": "BHCK3000"
+  },
+  {
+   "schedule": "HC",
+   "item": "28",
+   "caption": "Total equity capital (sum of items 27.a and 27.b)",
+   "parent": "",
+   "mdrm": "BHCKG105"
+  },
+  {
+   "schedule": "HC",
+   "item": "29",
+   "caption": "Total liabilities and equity capital (sum of items 21 and 28)",
+   "parent": "",
+   "mdrm": "BHCK3300"
+  },
+  {
+   "schedule": "HC-M",
+   "item": "12.b",
+   "caption": "Goodwill",
+   "parent": "Intangible assets",
+   "mdrm": "BHCK3163"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "1",
+   "caption": "Common stock plus related surplus, net of treasury stock and unearned employee stock ownership plan (ESOP) shares",
+   "parent": "",
+   "mdrm": "BHCAP742"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "2",
+   "caption": "Retained earnings",
+   "parent": "",
+   "mdrm": "BHCAKW00"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "3",
+   "caption": "Accumulated other comprehensive income (AOCI)",
+   "parent": "",
+   "mdrm": "BHCAB530"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "3.a",
+   "caption": "AOCI opt-out election (enter \"1\" for Yes; enter \"0\" for No)",
+   "parent": "",
+   "mdrm": "BHCAP838"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "4",
+   "caption": "Common equity tier 1 minority interest includable in common equity tier 1 capital",
+   "parent": "",
+   "mdrm": "BHCAP839"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "5",
+   "caption": "Common equity tier 1 capital before adjustments and deductions (sum of items 1 through 4)",
+   "parent": "",
+   "mdrm": "BHCAP840"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "6",
+   "caption": "LESS: Goodwill net of associated deferred tax liabilities (DTLs)",
+   "parent": "",
+   "mdrm": "BHCAP841"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "7",
+   "caption": "LESS: Intangible assets (other than goodwill and mortgage servicing assets (MSAs)), net of associated DTLs",
+   "parent": "",
+   "mdrm": "BHCAP842"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "8",
+   "caption": "LESS: Deferred tax assets (DTAs) that arise from net operating loss and tax credit carryforwards, net of any related valuation allowances and net of DTLs",
+   "parent": "",
+   "mdrm": "BHCAP843"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "12",
+   "caption": "Subtotal (item 5 minus items 6 through 11)",
+   "parent": "",
+   "mdrm": "BHCAP852"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "18",
+   "caption": "Total adjustments and deductions for common equity tier 1 capital",
+   "parent": "",
+   "mdrm": "BHCAP858"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "19",
+   "caption": "Common equity tier 1 capital (item 12 minus item 18)",
+   "parent": "",
+   "mdrm": "BHCAP859"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "25",
+   "caption": "Additional tier 1 capital",
+   "parent": "",
+   "mdrm": "BHCAP865"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "26",
+   "caption": "Tier 1 capital (sum of items 19 and 25)",
+   "parent": "",
+   "mdrm": "BHCA8274"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "27",
+   "caption": "Average total consolidated assets",
+   "parent": "",
+   "mdrm": "BHCAKW03"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "28",
+   "caption": "LESS: Deductions from common equity tier 1 capital and additional tier 1 capital",
+   "parent": "",
+   "mdrm": "BHCAP875"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "29",
+   "caption": "LESS: Other deductions from (additions to) assets for leverage ratio purposes",
+   "parent": "",
+   "mdrm": "BHCAB596"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "30",
+   "caption": "Total assets for the leverage ratio (item 27 minus items 28 and 29)",
+   "parent": "",
+   "mdrm": "BHCAA224"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "31",
+   "caption": "Leverage ratio (item 26 divided by item 30) - percentage",
+   "parent": "",
+   "mdrm": "BHCA7204"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "44.a",
+   "caption": "Tier 2 capital",
+   "parent": "",
+   "mdrm": "BHCA5311"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "45.a",
+   "caption": "Total capital (sum of items 26 and 44.a)",
+   "parent": "",
+   "mdrm": "BHCA3792"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "46.a",
+   "caption": "Total risk-weighted assets (from Schedule HC-R, Part II item 31)",
+   "parent": "",
+   "mdrm": "BHCAA223"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "47",
+   "caption": "Common equity tier 1 capital ratio - percentage",
+   "parent": "",
+   "mdrm": "BHCAP793"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "48",
+   "caption": "Tier 1 capital ratio - percentage",
+   "parent": "",
+   "mdrm": "BHCA7206"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "49",
+   "caption": "Total capital ratio - percentage",
+   "parent": "",
+   "mdrm": "BHCA7205"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "50",
+   "caption": "Capital conservation buffer - percentage",
+   "parent": "",
+   "mdrm": "BHCAH311"
+  },
+  {
+   "schedule": "HC-R Part I",
+   "item": "53",
+   "caption": "Supplementary leverage ratio - percentage (advanced approaches and Category III holding companies only)",
+   "parent": "",
+   "mdrm": "BHCAH036"
+  }
+ ]
+}
